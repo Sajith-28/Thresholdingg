@@ -88,8 +88,10 @@ plt.show()
 ### Adaptive Thresholding
 <img width="319" height="205" alt="image" src="https://github.com/user-attachments/assets/75f266b4-0c0b-4a9c-836c-6ef9c22de499" />
 
+### Optimum Global Thesholding using Otsu's Method
+<img width="304" height="204" alt="image" src="https://github.com/user-attachments/assets/a02e1774-37bf-4e1b-9664-912f109208fa" />
+
+
 ## Result:
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
 
-### Optimum Global Thesholding using Otsu's Method
-<img width="304" height="204" alt="image" src="https://github.com/user-attachments/assets/a02e1774-37bf-4e1b-9664-912f109208fa" />
